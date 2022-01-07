@@ -8,4 +8,13 @@
 <info>Kamen Rider Black (1987) Dublado Download Torrent – traduzido no Brasil como Black Kamen Rider e Blackman) é uma série de televisão japonesa do gênero tokusatsu pertencente à franquia dos Kamen Riders. Produzida pela Toei Company em associação com a Ishinomori Productions, foi exibida originalmente entre 4 de outubro de 1987 até 9 de outubro de 1988 no canal a cabo TV Asahi. Foi a primeira série da franquia a ser transmitida no Brasil, exibida pela extinta Rede Manchete a partir de abril de 1991, no bloco Sessão Super Heróis, obtendo grande sucesso e popularidade Black Kamen Rider continuou sendo exibido até dezembro de 1994, além de ter sido lançada em VHS a série marcou o retorno da franquia após um hiato de 6 anos sem a produção de séries televisivas. É a única série da franquia Rider a ter uma continuação direta, intitulada Kamen Rider Black RX, que continua a saga do protagonista Issamu Minami. A temática adulta e dramática da série, contrastante com as demais séries do gênero, foi (e até hoje é) elogiada por muitos fãs, sendo por muitos considerada uma das melhores produções da franquia e do gênero tokusatsu já produzidas no Japão. Atualmente, é transmitida na Ulbra TV, aos Sábados e Domingos, às 21h20min, assim como outros Tokusatsus de muito sucesso no Brasil como Ultraman, Jiraya, Jiban, Flashman e Jaspion.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] JIRAIA- O INCRIVÉL NINJA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee8bf3b550c2478c9aec1d95b1386e8612bd9117</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5CByRksNiGCGycnnUb2lBg7xlzS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8PFXTaCOEkI6XEec1TqQuxTx8YT.jpg</fanart>
+<info>Jiraya - O Incrível Ninja é uma série de televisão japonesa do gênero tokusatsu, pertencente? franquia dos Metal Heroes. Produzida pela Toei Company, foi exibida originalmente entre 24 de agosto de 1988 e 22 de janeiro de 1989 pela TV Asahi, totalizando 50 episódios. A série diferenciou-se de suas antecessoras por quebrar o padrão da franquia na qual está inserida, introduzindo um herói sem superpoderes e utilizar como temática a tradição japonesa dos ninjas, até então nunca explorada nos Metal Heroes. Foi trazida ao Brasil pela extinta Top Tape e estreou no dia 25 de setembro de 1989, continuando a fazer muito sucesso na década de 90. Mais tarde voltou a ser exibida pela Rede Manchete entre 1998 e 1999.</info>
+</item>
+
+
 
