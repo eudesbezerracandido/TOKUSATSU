@@ -1,13 +1,11 @@
 # TOKUSATSU
 
-
 <item>
-<title>[COLOR silver][B]  BLACK KAMEN RIDER  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://rr2---sn-bg0ezn7s.googlevideo.com/videoplayback?expire=1641591212&ei=TF3YYd60IqH6xQTegLRw&ip=2804%3A954%3Afeef%3A2a00%3Af1d6%3A290b%3Ae18e%3Abb6d&id=o-ABesq112kLzInpm3A5_agODd0yx4C-6_F-w3eqZTAkKG&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=6n9vczAyXayoYmdI_xWiNoEG&gir=yes&clen=90183614&ratebypass=yes&dur=943.240&lmt=1543954718861918&fexp=24001373,24007246&c=WEB_EMBEDDED_PLAYER&txp=5431432&n=RvrnIBatzxyUM2&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANVXlD_r4Z8tJxV_1BVgkvQwkhVivarsuNxga0dZkV7TAiEAlqB1stymtPI64t6q7NhkqR_TZfeV5gahGJD3JM8000A%3D&cm2rm=sn-q5opxauxa-gxjs7l&req_id=53d84621ad28a3ee&redirect_counter=2&rm=sn-pmcg-4vge7r&cms_redirect=yes&ipbypass=yes&mh=wB&mm=30&mn=sn-bg0ezn7s&ms=nxu&mt=1641569313&mv=m&mvi=2&pl=46&lsparams=ipbypass,mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAOtQE7W9MD7HHttLBMMpnXC-3fIqG2Pp53AGieQfmDPfAiEApzD7BipZET8BfkmI_mjVC5sEUkoGFFLSevcGM1kChG4%3D</link>
-<thumbnail></thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item> 
-
+<title>[COLOR silver][B] BLACK KAMEN RIDER 51 EP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03a58e79fab3474def1845115e7a7ee4d817c463</link>
+<thumbnail>https://ia601504.us.archive.org/31/items/156290-kamen-rider-black-hurry-to-onigashima/black-kamen-rider.jpg</thumbnail>
+<fanart>https://ia601504.us.archive.org/31/items/156290-kamen-rider-black-hurry-to-onigashima/20200817-black-kamen-rider-exibido-no-brasil-1024x576.jpg</fanart>
+<info>Kamen Rider Black (1987) Dublado Download Torrent – traduzido no Brasil como Black Kamen Rider e Blackman) é uma série de televisão japonesa do gênero tokusatsu pertencente à franquia dos Kamen Riders. Produzida pela Toei Company em associação com a Ishinomori Productions, foi exibida originalmente entre 4 de outubro de 1987 até 9 de outubro de 1988 no canal a cabo TV Asahi. Foi a primeira série da franquia a ser transmitida no Brasil, exibida pela extinta Rede Manchete a partir de abril de 1991, no bloco Sessão Super Heróis, obtendo grande sucesso e popularidade Black Kamen Rider continuou sendo exibido até dezembro de 1994, além de ter sido lançada em VHS a série marcou o retorno da franquia após um hiato de 6 anos sem a produção de séries televisivas. É a única série da franquia Rider a ter uma continuação direta, intitulada Kamen Rider Black RX, que continua a saga do protagonista Issamu Minami. A temática adulta e dramática da série, contrastante com as demais séries do gênero, foi (e até hoje é) elogiada por muitos fãs, sendo por muitos considerada uma das melhores produções da franquia e do gênero tokusatsu já produzidas no Japão. Atualmente, é transmitida na Ulbra TV, aos Sábados e Domingos, às 21h20min, assim como outros Tokusatsus de muito sucesso no Brasil como Ultraman, Jiraya, Jiban, Flashman e Jaspion.</info>
+</item>
 
 
