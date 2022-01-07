@@ -24,6 +24,15 @@
 <info> No planeta Edin, uma estrela a muitos anos-luz de distância da Terra, o profeta Edin encontra um garoto humano que sobreviveu à queda de uma nave espacial no planeta, acidente no qual seus pais morreram. Acreditando nas profecias da Bíblia Galáctica, a qual preceituava que um guerreiro celestial salvaria a galáxia e o universo das forças do mal, Edin crê ser este o garoto predestinado a se tornar o lendário guerreiro. Ele adota o menino e o cria sozinho, dando-lhe o nome de Jaspion, na esperança de que, algum dia, o garoto venha a combater as ameaças do temível Satan Goss, do Império dos Monstros.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]POLICIAL DE AÇO-JIBAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61ca4bf993643bdfc097f07994df91651200fca7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oxEsZ5MNqOYE0ZWjznKS6Gisqoc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d4Y20j0IuO0fJTxCQ2It5Ewe6Cx.jpg</fanart>
+<info> O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</info>
+</item>
+
+
 
 
 
