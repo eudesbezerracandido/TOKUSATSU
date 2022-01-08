@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]POLICIAL DE AÇO-JIBAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] POLICIAL DE AÇO-JIBAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61ca4bf993643bdfc097f07994df91651200fca7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oxEsZ5MNqOYE0ZWjznKS6Gisqoc.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/d4Y20j0IuO0fJTxCQ2It5Ewe6Cx.jpg</fanart>
