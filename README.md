@@ -34,10 +34,10 @@
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO-PODEROSO LION  MAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:595FDA218EDE191C90738BF19B9257F4E1B1153F$nome=1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB916ADF79F3989D85E2BAACCB6054B4D1DD2DA9$nome=2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F1182C847994BE70113A9951FAC56EEDD9473116$nome=3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CE0201DBB52EE645BA9424266882EF1556BFD861$nome=4</link>
+<link>https://archive.org/download/fuun-lion-man-01-dvd-dublado_202201/Fuun%20Lion%20Man%2001%20DVD%20dublado.mp4$nome=LION MAN EP. 1</link>
+<link>https://archive.org/download/fuun-lion-man-02-dvd-dublado/Fuun%20Lion%20Man%2002%20DVD%20dublado.mp4$nome=LION MAN EP.2</link>
+<link>https://archive.org/download/fuun-lion-man-03-dvd-dublado/Fuun%20Lion%20Man%2003%20DVD%20dublado.mp4$nome=LION MAN EP. 3</link>
+<link>https://archive.org/download/fuun-lion-man-04-dvd-dublado/Fuun%20Lion%20Man%2004%20DVD%20dublado.mp4$nome=LION MAN EP. 4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5lWatlZDjL4bnzeobs7b5FYl8gj.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O seriado tem seu contexto na época do Japão feudal, onde para qualquer guerreiro, mais importante que a própria vida era manter sua honra. Ele conta a história de Dan Shimaru, um samurai de 21 anos que, após ter o irmão Dan Kage Noshin morto por Nezuma, um monstro humano aliado da inescrupulosa família Mantor do Diabo , parte para a batalha movido por um desejo misto de vingança e justiça.</info>
