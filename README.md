@@ -41,7 +41,16 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/5lWatlZDjL4bnzeobs7b5FYl8gj.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O seriado tem seu contexto na época do Japão feudal, onde para qualquer guerreiro, mais importante que a própria vida era manter sua honra. Ele conta a história de Dan Shimaru, um samurai de 21 anos que, após ter o irmão Dan Kage Noshin morto por Nezuma, um monstro humano aliado da inescrupulosa família Mantor do Diabo , parte para a batalha movido por um desejo misto de vingança e justiça.</info>
-</item>  
+</item> 
+
+<item>
+<title>[COLOR silver][B] PODEROSO LION MAN TORRENT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F991D03313CFFAAC962E186354CB7E8EDAC13969</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5lWatlZDjL4bnzeobs7b5FYl8gj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vYhRrdq3NuyCAVLefh0rs6lxiHr.jpg</fanart>
+<info>O seriado tem seu contexto na época do Japão feudal, onde para qualquer guerreiro, mais importante que a própria vida era manter sua honra. Ele conta a história de Dan Shimaru, um samurai de 21 anos que, após ter o irmão Dan Kage Noshin morto por Nezuma, um monstro humano aliado da inescrupulosa família Mantor do Diabo , parte para a batalha movido por um desejo misto de vingança e justiça.</info>
+</item>
+
 
 
 
