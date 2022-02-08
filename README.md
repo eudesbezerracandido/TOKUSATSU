@@ -1,5 +1,17 @@
 # TOKUSATSU
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] ULTRAMAN 1966 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2F7666763D18B0B7C9B9AE19129476FE4046E57</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h5l0J7wkEFjEKr6G9pCzKZrtVRn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Este conjunto de arquivos tem todos os episódios perdidos de pré-lançamento do The Ultraman, gravados em 8mm e lançados oficialmente em 2005. Ao perseguir o monstro Bemlar, um alienígena de nome Ultraman, vindo da nebulosa M-78 chega a Terra. Acidentalmente, a nave extraterrestre se choca com uma nave da Terra, onde se encontrava o oficial Hayata, da Patrulha Científica. Após à colisão, Hayata, em estado crítico, é salvo pelo alienígena, que transfere sua energia vital ao humano moribundo. Também lhe entrega um artefato chamado "Cápsula Beta", que confere a Hayata a possibilidade de se transformar em Ultraman. Dessa forma, Ultraman, que havia sido nomeado para proteger a Terra, cumpre sua missão através do humano Hayata, que, toda vez em que um monstro aparece, se transforma no alienígena. Entre os principais monstros inimigos de Ultraman, estão os Baltan, que por diversas vezes enfrentam o herói.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BLACK KAMEN RIDER 51 EP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03a58e79fab3474def1845115e7a7ee4d817c463</link>
