@@ -1,6 +1,6 @@
 # TOKUSATSU
 
-<items>
+<item>
 <title>[COLOR silver][B] BLACK KAMEN RIDER 51 EP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03a58e79fab3474def1845115e7a7ee4d817c463</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/icYCiFHN6tHXgAm7nyaeujl9sss.jpg</thumbnail>
@@ -57,7 +57,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/5lWatlZDjL4bnzeobs7b5FYl8gj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vYhRrdq3NuyCAVLefh0rs6lxiHr.jpg</fanart>
 <info>O seriado tem seu contexto na época do Japão feudal, onde para qualquer guerreiro, mais importante que a própria vida era manter sua honra. Ele conta a história de Dan Shimaru, um samurai de 21 anos que, após ter o irmão Dan Kage Noshin morto por Nezuma, um monstro humano aliado da inescrupulosa família Mantor do Diabo , parte para a batalha movido por um desejo misto de vingança e justiça.</info>
-</items> 
+</item> 
 
 
 
