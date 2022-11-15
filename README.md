@@ -1,5 +1,16 @@
 # TOKUSATSU
 
+
+
+
+<item>
+<title>[COLOR silver][B] KAMEN RIDER BLACK SUN-REBOOT ( LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d0753a86e70a55cd311811fff09fb3c90177814</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cPE8NR9CdpZKHab3ZSyVy4R6vGz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wTQVZQIJJDL5oG26mJ91ZyxwmXR.jpg</fanart>
+<info>O ano é 2022. Meio século se passou desde que o país declarou a coexistência de humanos e monstros, uma era de caos. Aoi Izumi, uma jovem ativista dos direitos humanos que luta pela abolição da discriminação, conhece um homem, Kotaro Minami, que era um candidato a ser o próximo Grande Rei, também chamado de "Sol Negro". E outro candidato a Grande Rei está preso há 50 anos: Shadow Moon (Nobuhiko Akizuki). Seus encontros e reencontros eventualmente se tornam uma grande onda e engolem as pessoas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BLACK KAMEN RIDER 51 EP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03a58e79fab3474def1845115e7a7ee4d817c463</link>
