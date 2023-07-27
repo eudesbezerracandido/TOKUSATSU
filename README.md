@@ -52,7 +52,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] COLEÇÃO-PODEROSO LION  MAN ISO 1 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] LION  MAN ISO 1 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%2001.mp4$nome=LION MAN EP.1</link>
 <link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20011.mp4$nome=LION MAN EP.2</link>
 <link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20012.mp4$nome=LION MAN EP.3</link>
@@ -65,7 +65,7 @@
 </item> 
 
 <item>
-<title>[COLOR silver][B] COLEÇÃO-PODEROSO LION  MAN ISO 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] LION  MAN ISO 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%2002.mp4$nome=LION MAN EP.1</link>
 <link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20021.mp4$nome=LION MAN EP.2</link>
 <link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20023.mp4$nome=LION MAN EP.3</link>
