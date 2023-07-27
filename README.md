@@ -57,8 +57,8 @@
 <link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20011.mp4$nome=LION MAN EP.2</link>
 <link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20012.mp4$nome=LION MAN EP.3</link>
 <link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20013.mp4$nome=LION MAN EP.4</link>
-<link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20014.mp4$nome=LION MAN EP.4</link>
-<link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20015.mp4$nome=LION MAN EP.4</link>
+<link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20014.mp4$nome=LION MAN EP.5</link>
+<link>https://archive.org/download/lionmaniso/%5BTokuShare%5D%20LION%20MAN%20DVD%20015.mp4$nome=LION MAN EP.6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5lWatlZDjL4bnzeobs7b5FYl8gj.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O seriado tem seu contexto na época do Japão feudal, onde para qualquer guerreiro, mais importante que a própria vida era manter sua honra. Ele conta a história de Dan Shimaru, um samurai de 21 anos que, após ter o irmão Dan Kage Noshin morto por Nezuma, um monstro humano aliado da inescrupulosa família Mantor do Diabo , parte para a batalha movido por um desejo misto de vingança e justiça.</info>
