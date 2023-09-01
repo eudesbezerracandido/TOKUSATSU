@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] SHIN KAMEM RIDER 50 ANOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6543AC5DE7512BAC65154AB408C69F2FCC8F79</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/teR8qNIZQ3UGtySTHlTEPvGnmfk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem é forçado a ter poder e foi destituído de sua humanidade. Uma mulher é cética em relação à felicidade. Takeshi Hongo, o homem que sofreu o processo "Augment" feito pela SHOCKER, e Ruriko Midorikawa, uma rebelde da organização, scapam enquanto lutam contra assassinos. O que é a justiça? O que é o mal? Essa violência terá fim? Apesar de seu poder, Hongo tenta permanecer humano. Junto com a liberdade, Ruriko recuperou seu coração. Que caminhos eles escolherão?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] KAMEN RIDER BLACK SUN-REBOOT ( LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d0753a86e70a55cd311811fff09fb3c90177814</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cPE8NR9CdpZKHab3ZSyVy4R6vGz.jpg</thumbnail>
