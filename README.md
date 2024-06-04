@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] SHIN ULTRAMEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dcd95003906c57d57373169cfb0776158137227</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1B56yPqhmCRvxdRnlcbousudhD7.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um alienígena está em busca de justiça e persegue um criminoso desonesto em um planeta chamado Terra. Para expiar suas ações, ele deixa o poder de transformar um humano em um herói para proteger a Terra. Assim, o Ultraman nasceu da maneira que se seguiu à série original do início dos anos 1960, que estava na TV de muitos lares japoneses.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SHIN KAMEM RIDER 50 ANOS ( LEGENDADO PTBR ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17a10d72c9980d67e338f34bcfc87ea9519dfb48</link>
